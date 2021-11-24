@@ -18,10 +18,12 @@ de sensores de las cuatro celdas adyacentes. Por tanto, es fácil distinguir si 
 una pared, contiene una pila de cajas (y cuantas cajas hay en la pila) o está ocupado por otro robot. 
 Los robots también tienen sensores de presión equipados que les indican si llevan una caja en ese 
 momento.  
+
 Lamentablemente,  tu  presupuesto  resultó  insuficiente  para  adquirir  un  software  de  gestión  de 
 agentes múltiples de última generación. Pero eso no debería ser un gran problema ... ¿verdad? Tu 
 tarea es enseñar a sus robots cómo ordenar su almacén. La organización de los agentes depende de 
 ti, siempre que todas las cajas terminen en pilas ordenadas de cinco. 
+
 Redacta un documento con el diseño de la modelación para el sistema que se describe: 
 • Ejecución: 
 o Inicializar las posiciones iniciales de las K cajas. Todas las cajas están a nivel de piso, 
@@ -34,7 +36,6 @@ o Número de movimientos realizados por todos los robots.
 o Analiza si existe una estrategia que podría disminuir el tiempo dedicado, así como 
 la cantidad de movimientos realizados. ¿Cómo sería? Descríbela. 
  
-2 
  
 Parte 2. Gráficas Computacionales 
  
