@@ -1,5 +1,4 @@
-# TC2008B. Modelación de Sistemas Multiagentes con Gráficas 
-Computacionales 
+# TC2008B. Modelación de Sistemas Multiagentes con Gráficas Computacionales 
  
 Actividad Integradora 
  
